@@ -1,12 +1,4 @@
-# Build & Track ML Pipelines with DVC
-
-## How to run?
-
-python -m venv .venv
-.venv\Scripts\activate
-
-pip install -r requirements.txt
-
+# Track ML Pipelines with DVC
 
 ## DVC Commands
 
